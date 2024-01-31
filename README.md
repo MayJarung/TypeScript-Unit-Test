@@ -1,4 +1,4 @@
-# TypeScript With Unit Test - เขียน Unit Test สำหรับการ Merge Sort Array
+# TypeScript With Unit Test - เขียน Unit Test สำหรับการทำ Merge Sort Array จาก Array 2 อัน
 
 ### <<< HOW TO USE THIS >>>
 
